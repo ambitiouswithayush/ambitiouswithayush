@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ambitiouswithayush
+- 👋 Hi, I’m Ayush Kumar.
 - 👀 I’m interested in development and dsa
 - 🌱 I’m currently learning node js
-- 💞️ I’m looking to collaborate on gssoc
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on GSoC
+- 📫 How to reach me @ambitiouswithayush
 - 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
